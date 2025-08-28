@@ -1,0 +1,43 @@
+Start testing: Aug 28 22:04 UTC
+----------------------------------------------------------
+1/2 Testing: Square root of positive numbers
+1/2 Test: Square root of positive numbers
+Command: "/workspaces/CS310L/cmake-catch2-lab/build/unit_tests" "Square root of positive numbers"
+Directory: /workspaces/CS310L/cmake-catch2-lab/build
+"Square root of positive numbers" start time: Aug 28 22:04 UTC
+Output:
+----------------------------------------------------------
+Filters: "Square root of positive numbers"
+Randomness seeded to: 2210892289
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Square root of positive numbers" end time: Aug 28 22:04 UTC
+"Square root of positive numbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: Square root of negative numbers
+2/2 Test: Square root of negative numbers
+Command: "/workspaces/CS310L/cmake-catch2-lab/build/unit_tests" "Square root of negative numbers"
+Directory: /workspaces/CS310L/cmake-catch2-lab/build
+"Square root of negative numbers" start time: Aug 28 22:04 UTC
+Output:
+----------------------------------------------------------
+Filters: "Square root of negative numbers"
+Randomness seeded to: 3929420854
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Square root of negative numbers" end time: Aug 28 22:04 UTC
+"Square root of negative numbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 28 22:04 UTC

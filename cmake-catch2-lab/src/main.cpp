@@ -1,5 +1,6 @@
-#include <iostream>
 #include "math_functions.h"
+#include <iostream>
+
 
 int main(){
 
