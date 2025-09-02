@@ -43,5 +43,31 @@ void ShapeMaker::setSymbol(chat s){
 
 //draw functions
 
+void ShapeMaker::drawHorizontal(){
+    int mid = height / 2;
+    for(int row = 0; row < height; row++){
+        for(int col = 0; col < width; col++){
+            if (row == mid)
+                cout << symbol;
+            else
+                cout << " ";
+
+        }
+        cout << endl;
+    }
+}
+
+void ShapeMaker::drawVertical(){
+    int mid = width / 2;
+    for(int row = 0; row < width; row++){
+        for(int col = 0; col < width; col++){
+            if (row == mid)
+                cout << symbol;
+            else
+                cout << " ";
+        }
+        cout << endl;
+    }
+}
 
 
