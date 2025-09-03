@@ -1,0 +1,3 @@
+/workspaces/CS310L/ShapeMaker-Lab/build/CMakeFiles/ShapeIt.dir
+/workspaces/CS310L/ShapeMaker-Lab/build/CMakeFiles/edit_cache.dir
+/workspaces/CS310L/ShapeMaker-Lab/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ShapeIt.dir/main.cpp.o CMakeFiles/ShapeIt.dir/shapemaker.cpp.o -o ShapeIt 
